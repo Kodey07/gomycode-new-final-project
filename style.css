@@ -10,3 +10,8 @@ body {
     font-family: 'Lobster', cursive;
     height: 200vh;
 }
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
